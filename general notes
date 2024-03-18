@@ -1,0 +1,35 @@
+HTML Part 
+
+top navbar - to be created in HTML 
+colour icon div and add button and remove/close button 
+
+on click Modal to add the note
+Modal : 
+1. Text Area 
+2. Colour Selection Widget
+
+Task Card : 
+1. Top strip of color  
+2. task description
+3. lock icon
+4. Unlock icon
+5. Unique id strip 
+
+Functionality :
+
+Event Listener : 
+1. Click Event on add button 
+2. Click on the colour Widget
+3. Keydown event on eter button 
+4. Click event on the top strip of the task Card
+5. Click event on Lock/Unlock button 
+Click event on the remove button 
+click event on the task card to remove
+6. Click event on the top color icons
+7. Double click evet on top color icons
+
+
+
+
+Font Awesome : Used to add icons to our code. Icons are lightweight and do not add load of downloading images. Also, using icons in the code improves the performance of our website. 
+
